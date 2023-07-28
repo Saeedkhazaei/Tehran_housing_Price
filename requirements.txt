@@ -1,4 +1,4 @@
-python -m pip install --upgrade pip
+--upgrade pip
 tbats
 TBB== 2021.10.0
 textblob==0.17.1
