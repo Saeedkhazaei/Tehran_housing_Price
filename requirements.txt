@@ -1,4 +1,4 @@
---upgrade pip
+pip== 23.1.2
 tbats
 TBB== 2021.10.0
 textblob==0.17.1
